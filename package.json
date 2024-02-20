@@ -5,6 +5,7 @@
         "ng": "ng",
         "start": "ng serve",
         "build": "ng build",
+        "build-prod": "ng build --base-href /ilovepetrinets/fapra/wise23/rot/",
         "watch": "ng build --watch --configuration development",
         "test": "ng test",
         "prettier:fix": "npx prettier . --write"
